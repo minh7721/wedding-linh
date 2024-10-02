@@ -59,6 +59,12 @@
     <meta property="og:type" content="website"/>
     <meta property="og:description" content="Việt Anh &#38; Khánh Linh"/>
     <meta name="format-detection" content="telephone=no"/>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="{{ asset('assests/css/style.css') }}">
+
     <link rel="dns-prefetch">
     <link rel="preconnect" href="../fonts.googleapis.com/index.html" crossorigin>
     <link rel="preconnect" href="../fonts.gstatic.com/index.html" crossorigin>
@@ -3291,118 +3297,118 @@
             </div>
         </div>
     </div>
-    <div id="SECTION6" class='ladi-section'>
-        <div class='ladi-section-background'></div>
-        <div class="ladi-container">
-            <div id="GROUP6" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="IMAGE17" class='ladi-element'>
-                        <div class='ladi-image'>
-                            <div class="ladi-image-background"></div>
-                        </div>
-                    </div>
-                    <div id="PARAGRAPH15" class='ladi-element'>
-                        <div class='ladi-paragraph'>CHUYỆN CHÚNG MÌNH</div>
-                    </div>
-                    <div id="PARAGRAPH16" class='ladi-element'>
-                        <div class='ladi-paragraph'>Mỗi cặp đôi ai cũng có những câu chuyện của riêng mình và chúng
-                            mình cũng vậy! Tình yêu giống như một cuộn phim có thăng trầm có khó khăn, có hạnh phúc!
-                            Nhưng bến đỗ đó chính là chúng mình anh nhỉ?
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div id="IMAGE18" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
-                </div>
-            </div>
-            <div id="IMAGE19" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
-                </div>
-            </div>
-            <div id="GROUP7" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="BOX3" class='ladi-element'>
-                        <div class='ladi-box ladi-transition'></div>
-                    </div>
-                    <div id="PARAGRAPH17" class='ladi-element'>
-                        <div class='ladi-paragraph'>LẦN ĐẦU GẶP GỠ ♥♥</div>
-                    </div>
-                    <div id="PARAGRAPH18" class='ladi-element'>
-                        <div class='ladi-paragraph'>Mình và em cùng rất thích cún con. Và thật trùng hợp chúng mình
-                            gặp nhau ở một quán cafe thú cưng. Nhưng điều trùng hợp hơn nữa là chúng mình cùng khẽ
-                            chạm vào bé cún Corgi đuôi được cắt tỉa hình trái tim, và mình lỡ chạm vào bàn tay của
-                            cô ấy! Con tim mình như lạc nhịp…
-                        </div>
-                    </div>
-                    <div id="BUTTON2" class='ladi-element'>
-                        <div class='ladi-button ladi-transition'>
-                            <div class="ladi-button-background"></div>
-                            <div id="BUTTON_TEXT2" class='ladi-element ladi-button-headline'>
-                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div id="IMAGE20" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
-                </div>
-            </div>
-            <div id="GROUP8" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="BOX4" class='ladi-element'>
-                        <div class='ladi-box ladi-transition'></div>
-                    </div>
-                    <div id="PARAGRAPH19" class='ladi-element'>
-                        <div class='ladi-paragraph'>NHẬN LỜI YÊU NHAU♥♥</div>
-                    </div>
-                    <div id="PARAGRAPH20" class='ladi-element'>
-                        <div class='ladi-paragraph'>Chúng mình đã có những buổi hẹn hò đầu tiên, cả hai đã âm thầm
-                            dành tình cảm cho nhau ngay từ lần đầu gặp mặt. Mình đã thổ lộ tình cảm của mình với cô
-                            ấy, lo lắng và ngập ngừng nhưng cuối cùng mình cũng đã dám làm theo con tim mách bảo.
-                        </div>
-                    </div>
-                    <div id="BUTTON3" class='ladi-element'>
-                        <div class='ladi-button ladi-transition'>
-                            <div class="ladi-button-background"></div>
-                            <div id="BUTTON_TEXT3" class='ladi-element ladi-button-headline'>
-                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div id="GROUP9" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="BOX5" class='ladi-element'>
-                        <div class='ladi-box ladi-transition'></div>
-                    </div>
-                    <div id="PARAGRAPH21" class='ladi-element'>
-                        <div class='ladi-paragraph'>MƠ MỘT HẠNH PHÚC!♥♥</div>
-                    </div>
-                    <div id="PARAGRAPH22" class='ladi-element'>
-                        <div class='ladi-paragraph'>Tình yêu giống như một cuốn phim, càng nhiều biến cố thì bộ phim
-                            càng hấp dẫn. Bọn mình đã trân trọng mọi khoảnh khắc, kỷ niệm bên nhau. Cả hai đều mong
-                            muốn hướng đến một mái ấm. Thế nên chúng mình đã quyết định ra mắt bố mẹ hai bên và xin
-                            phép bố mẹ được kết hôn.
-                        </div>
-                    </div>
-                    <div id="BUTTON4" class='ladi-element'>
-                        <div class='ladi-button ladi-transition'>
-                            <div class="ladi-button-background"></div>
-                            <div id="BUTTON_TEXT4" class='ladi-element ladi-button-headline'>
-                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    {{--    <div id="SECTION6" class='ladi-section'>--}}
+    {{--        <div class='ladi-section-background'></div>--}}
+    {{--        <div class="ladi-container">--}}
+    {{--            <div id="GROUP6" class='ladi-element'>--}}
+    {{--                <div class='ladi-group'>--}}
+    {{--                    <div id="IMAGE17" class='ladi-element'>--}}
+    {{--                        <div class='ladi-image'>--}}
+    {{--                            <div class="ladi-image-background"></div>--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH15" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>CHUYỆN CHÚNG MÌNH</div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH16" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>Mỗi cặp đôi ai cũng có những câu chuyện của riêng mình và chúng--}}
+    {{--                            mình cũng vậy! Tình yêu giống như một cuộn phim có thăng trầm có khó khăn, có hạnh phúc!--}}
+    {{--                            Nhưng bến đỗ đó chính là chúng mình anh nhỉ?--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="IMAGE18" class='ladi-element'>--}}
+    {{--                <div class='ladi-image'>--}}
+    {{--                    <div class="ladi-image-background"></div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="IMAGE19" class='ladi-element'>--}}
+    {{--                <div class='ladi-image'>--}}
+    {{--                    <div class="ladi-image-background"></div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="GROUP7" class='ladi-element'>--}}
+    {{--                <div class='ladi-group'>--}}
+    {{--                    <div id="BOX3" class='ladi-element'>--}}
+    {{--                        <div class='ladi-box ladi-transition'></div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH17" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>LẦN ĐẦU GẶP GỠ ♥♥</div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH18" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>Mình và em cùng rất thích cún con. Và thật trùng hợp chúng mình--}}
+    {{--                            gặp nhau ở một quán cafe thú cưng. Nhưng điều trùng hợp hơn nữa là chúng mình cùng khẽ--}}
+    {{--                            chạm vào bé cún Corgi đuôi được cắt tỉa hình trái tim, và mình lỡ chạm vào bàn tay của--}}
+    {{--                            cô ấy! Con tim mình như lạc nhịp…--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="BUTTON2" class='ladi-element'>--}}
+    {{--                        <div class='ladi-button ladi-transition'>--}}
+    {{--                            <div class="ladi-button-background"></div>--}}
+    {{--                            <div id="BUTTON_TEXT2" class='ladi-element ladi-button-headline'>--}}
+    {{--                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>--}}
+    {{--                            </div>--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="IMAGE20" class='ladi-element'>--}}
+    {{--                <div class='ladi-image'>--}}
+    {{--                    <div class="ladi-image-background"></div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="GROUP8" class='ladi-element'>--}}
+    {{--                <div class='ladi-group'>--}}
+    {{--                    <div id="BOX4" class='ladi-element'>--}}
+    {{--                        <div class='ladi-box ladi-transition'></div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH19" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>NHẬN LỜI YÊU NHAU♥♥</div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH20" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>Chúng mình đã có những buổi hẹn hò đầu tiên, cả hai đã âm thầm--}}
+    {{--                            dành tình cảm cho nhau ngay từ lần đầu gặp mặt. Mình đã thổ lộ tình cảm của mình với cô--}}
+    {{--                            ấy, lo lắng và ngập ngừng nhưng cuối cùng mình cũng đã dám làm theo con tim mách bảo.--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="BUTTON3" class='ladi-element'>--}}
+    {{--                        <div class='ladi-button ladi-transition'>--}}
+    {{--                            <div class="ladi-button-background"></div>--}}
+    {{--                            <div id="BUTTON_TEXT3" class='ladi-element ladi-button-headline'>--}}
+    {{--                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>--}}
+    {{--                            </div>--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div id="GROUP9" class='ladi-element'>--}}
+    {{--                <div class='ladi-group'>--}}
+    {{--                    <div id="BOX5" class='ladi-element'>--}}
+    {{--                        <div class='ladi-box ladi-transition'></div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH21" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>MƠ MỘT HẠNH PHÚC!♥♥</div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="PARAGRAPH22" class='ladi-element'>--}}
+    {{--                        <div class='ladi-paragraph'>Tình yêu giống như một cuốn phim, càng nhiều biến cố thì bộ phim--}}
+    {{--                            càng hấp dẫn. Bọn mình đã trân trọng mọi khoảnh khắc, kỷ niệm bên nhau. Cả hai đều mong--}}
+    {{--                            muốn hướng đến một mái ấm. Thế nên chúng mình đã quyết định ra mắt bố mẹ hai bên và xin--}}
+    {{--                            phép bố mẹ được kết hôn.--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                    <div id="BUTTON4" class='ladi-element'>--}}
+    {{--                        <div class='ladi-button ladi-transition'>--}}
+    {{--                            <div class="ladi-button-background"></div>--}}
+    {{--                            <div id="BUTTON_TEXT4" class='ladi-element ladi-button-headline'>--}}
+    {{--                                <p class='ladi-headline'>♥♥ 14/03/2023 ♥♥</p>--}}
+    {{--                            </div>--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--        </div>--}}
+    {{--    </div>--}}
     <div id="SECTION7" class='ladi-section'>
         <div class='ladi-section-background'></div>
         <div class="ladi-container">
@@ -3554,6 +3560,7 @@
             </div>
         </div>
     </div>
+    @include('form_submit')
 </div>
 <div id="backdrop-popup" class="backdrop-popup"></div>
 <div id="backdrop-dropbox" class="backdrop-dropbox"></div>
@@ -3896,6 +3903,11 @@
         };
         run();
     })();</script>
+<script src="{{ asset('assests/js/jquery.min.js') }}"></script>
+<script src="{{ asset('assests/js/popper.js') }}"></script>
+<script src="{{ asset('assests/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('assests/js/jquery.validate.min.js') }}"></script>
+<script src="{{ asset('assests/js/main.js') }}"></script>
 </body>
 <!-- Mirrored from w.tuybutky.com/cuoi-thanh-tung---kim-trinh-3013 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Sep 2024 04:08:42 GMT -->
 
