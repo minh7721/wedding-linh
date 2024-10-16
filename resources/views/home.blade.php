@@ -54,6 +54,7 @@
             window.ladi_ttq_data.push(arguments);
         };</script>
     <link rel="canonical" href=""/>
+    <meta name="robots" content="none">
     <meta property="og:url" content=""/>
     <meta property="og:title" content="Việt Anh &#38; Khánh Linh"/>
     <meta property="og:type" content="website"/>
