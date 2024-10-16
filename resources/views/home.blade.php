@@ -2464,10 +2464,10 @@
             }
 
             #BOX11 {
-                width: 407.88px;
-                height: 544.66px;
-                top: 48.3003px;
-                left: 5.74775px;
+                width: 408px;
+                height: 560px;
+                top: 48px;
+                left: 6px;
             }
 
             #PARAGRAPH48 {
@@ -2540,7 +2540,7 @@
             #PARAGRAPH54 > .ladi-paragraph,
             #PARAGRAPH39 > .ladi-paragraph,
             #PARAGRAPH56 > .ladi-paragraph {
-                font-size: 15px;
+                font-size: 12px;
             }
 
             #GROUP18 {
@@ -3862,7 +3862,7 @@
 <script src="../w.ladicdn.com/v4/source/ladipagev3.min041e.js?v=1725620447318" type="text/javascript"></script>
 <script id="script_event_data"
         type="application/json">
-    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068994106-20230930101650-qymw7.png","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
+    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"{{ asset('assests/img/bank_stk.jpg') }}","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
 </script>
 <script id="script_ladipage_run"
         type="text/javascript">(function () {
