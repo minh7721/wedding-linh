@@ -2,10 +2,10 @@
 
 @endpush
 
-<section class="ftco-section">
-    <div class="container">
+<section class="py-3">
+    <div class="container px-4 py-2">
         <div class="row justify-content-center">
-            <div class="text-center mb-5">
+            <div class="text-center mb-2 lg:mb-5">
                 <h2 class="heading-section h2">BẠN SẼ ĐẾN CHỨ</h2>
                 <p class="h5">Chúng mình rất chờ đón sự kiện trọng đại này của cuộc đời. Xin hãy xác nhận sự có mặt của mình để chúng mình chuẩn bị đón tiếp một cách chu đáo nhất nhé! Trân trọng!</p>
             </div>
@@ -47,7 +47,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
-                                                <input type="submit" value="Send Message" class="btn btn-primary">
+                                                <input type="submit" value="Gửi cho chúng tớ" class="btn btn-primary">
                                                 <div class="submitting"></div>
                                             </div>
                                         </div>
@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 d-flex align-items-stretch">
-                            <div class="info-wrap w-100 p-5 img" style="background-image: url(http://127.0.0.1:8000/w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-27-20231009123127-jxx1n.jpg);">
+                            <div class="info-wrap w-100 p-5 img" style="background-image: url({{ asset('assests/img/_S2H1470.JPG') }});">
                             </div>
                         </div>
                     </div>

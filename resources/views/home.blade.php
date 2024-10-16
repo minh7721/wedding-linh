@@ -1103,9 +1103,13 @@
             height: 297px;
         }
 
-        #IMAGE6 > .ladi-image > .ladi-image-background,
+        #IMAGE6 > .ladi-image > .ladi-image-background{
+            background-image: url("{{ asset('assests/img/linh_2.jpg') }}");
+            border-radius: 50%;
+        }
         #IMAGE7 > .ladi-image > .ladi-image-background {
-            background-image: url("../w.ladicdn.com/s600x600/5e51ff6161a254079fc6d2ed/8-2-20231009123120-3qq3w.png");
+            background-image: url("{{ asset('assests/img/viet_anh_1.jpg') }}");
+            border-radius: 50%;
         }
 
         #IMAGE6.ladi-animation > .ladi-image {
@@ -1315,7 +1319,7 @@
         #BOX8,
         #GROUP15,
         #BOX9 {
-            height: 109px;
+            height: 160px;
         }
 
         #BOX8 > .ladi-box,
@@ -1381,7 +1385,8 @@
             font-size: 16px;
             line-height: 1.6;
             color: rgb(0, 0, 0);
-            text-align: center;
+            text-align: left;
+            margin-left: 20px;
         }
 
         #IMAGE30 > .ladi-image {
@@ -1394,11 +1399,11 @@
 
         @media (min-width: 768px) {
             #SECTION1 {
-                height: 709.1px;
+                height: 1000px;
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url("../w.ladicdn.com/s1440x709/5e51ff6161a254079fc6d2ed/album-anh-cuoi-vuon-nhan-27-20231009123131-lbkns.jpg");
+                background-image: url({{ asset('assests/img/_S2H1373.jpg') }});
             }
 
             #PARAGRAPH1 {
@@ -1483,7 +1488,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s800x900/5e51ff6161a254079fc6d2ed/thiet-ke-chua-co-ten-31-1-20231009123356-eonip.png");
+                    background-image: url("{{ asset('assests/img/blue1.JPG') }}");
             }
 
             #GROUP19 {
@@ -1711,7 +1716,7 @@
 
             #IMAGE36 {
                 top: 264.199px;
-                left: 539.5px;
+                left: 595px;
             }
 
             #IMAGE37 {
@@ -1831,7 +1836,7 @@
 
             #IMAGE9 > .ladi-image > .ladi-image-background,
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-34-20231009123127-em5lv.jpg");
+                background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
             }
 
             #FRAME2 {
@@ -1840,7 +1845,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-27-20231009123127-jxx1n.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
             }
 
             #FRAME3 {
@@ -1849,7 +1854,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-23-20231009123127-kxerc.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1182.JPG') }}");
             }
 
             #FRAME4 {
@@ -1858,7 +1863,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-6-20231009123127--gda_.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1312.JPG') }}");
             }
 
             #FRAME5 {
@@ -1867,7 +1872,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-4-20231009123126-ut1x_.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1393.JPG') }}");
             }
 
             #FRAME6 {
@@ -1876,7 +1881,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-28-20231009123127-wbykp.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1470.JPG') }}");
             }
 
             #FRAME7 {
@@ -1885,7 +1890,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s600x750/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-30-20231009123127-uc5ms.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1114.JPG') }}");
             }
 
             #FRAME8 {
@@ -2055,6 +2060,7 @@
             #GROUP15,
             #BOX9 {
                 width: 501px;
+                height: 106px;
             }
 
             #GROUP14 {
@@ -2128,7 +2134,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s550x600/5e51ff6161a254079fc6d2ed/1693851088542-20230904181204-0xa4l.png");
+                background-image: url("{{ asset('assests/img/bank_stk.jpg') }}");
             }
 
             #GROUP11 {
@@ -2179,7 +2185,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 344.754px;
                 height: 517.131px;
-                background-image: url("../w.ladicdn.com/s650x850/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-34-20231009123127-em5lv.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
             }
 
             #IMAGE31,
@@ -2195,11 +2201,11 @@
 
         @media (max-width: 767px) {
             #SECTION1 {
-                height: 337.919px;
+                height: 350px;
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url("../w.ladicdn.com/s768x337/5e51ff6161a254079fc6d2ed/album-anh-cuoi-vuon-nhan-27-20231009123131-lbkns.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1373.jpg') }}");
             }
 
             #PARAGRAPH1,
@@ -2299,7 +2305,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s650x750/5e51ff6161a254079fc6d2ed/thiet-ke-chua-co-ten-31-1-20231009123356-eonip.png");
+                background-image: url("{{ asset('assests/img/blue1.JPG') }}");
             }
 
             #GROUP19 {
@@ -2372,7 +2378,7 @@
 
             #IMAGE4 {
                 top: 231.129px;
-                left: 187.449px;
+                left: 209px;
             }
 
             #IMAGE4 > .ladi-image > .ladi-image-background,
@@ -2505,7 +2511,7 @@
 
             #IMAGE36 {
                 top: 239.579px;
-                left: 188.697px;
+                left: 205px;
             }
 
             #IMAGE37,
@@ -2640,7 +2646,7 @@
 
             #IMAGE9 > .ladi-image > .ladi-image-background,
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-34-20231009123127-em5lv.jpg");
+                background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
             }
 
             #FRAME2 {
@@ -2649,7 +2655,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-27-20231009123127-jxx1n.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
             }
 
             #FRAME3 {
@@ -2658,7 +2664,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-23-20231009123127-kxerc.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1182.JPG') }}");
             }
 
             #FRAME4 {
@@ -2667,7 +2673,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-6-20231009123127--gda_.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1312.JPG') }}");
             }
 
             #FRAME5 {
@@ -2676,7 +2682,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-4-20231009123126-ut1x_.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1393.JPG') }}");
             }
 
             #FRAME6 {
@@ -2685,7 +2691,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-28-20231009123127-wbykp.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1470.JPG') }}");
             }
 
             #FRAME7 {
@@ -2694,7 +2700,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s500x600/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-30-20231009123127-uc5ms.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1114.JPG') }}");
             }
 
             #FRAME8 {
@@ -2793,7 +2799,7 @@
             }
 
             #SECTION7 {
-                height: 1203.33px;
+                height: 1250px;
             }
 
             #SECTION7 > .ladi-section-background {
@@ -2819,7 +2825,7 @@
 
             #BOX7 {
                 width: 397px;
-                height: 701px;
+                height: 750px;
                 top: 433.165px;
                 left: 11.5px;
             }
@@ -2857,7 +2863,7 @@
             }
 
             #GROUP15 {
-                top: 787.665px;
+                top: 850px;
                 left: 28px;
             }
 
@@ -2868,12 +2874,12 @@
             }
 
             #HTML_CODE1 {
-                top: 579.432px;
+                top: 635px;
                 left: 25px;
             }
 
             #HTML_CODE2 {
-                top: 916.432px;
+                top: 1030px;
                 left: 25px;
             }
 
@@ -2917,7 +2923,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("../w.ladicdn.com/s450x500/5e51ff6161a254079fc6d2ed/1693851088542-20230904181204-0xa4l.png");
+                background-image: url("{{ asset('assests/img/bank_stk.jpg') }}");
             }
 
             #GROUP11 {
@@ -2966,7 +2972,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 370.051px;
                 height: 555.076px;
-                background-image: url("../w.ladicdn.com/s700x900/5e51ff6161a254079fc6d2ed/album-anh-cuoi-han-quoc-phim-truong-34-20231009123127-em5lv.jpg");
+                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
             }
 
             #IMAGE31,
@@ -3152,10 +3158,10 @@
                 <div class='ladi-paragraph'>TỚI THAM DỰ LỄ THÀNH HÔN CỦA CHÚNG MÌNH</div>
             </div>
             <div id="PARAGRAPH51" class='ladi-element'>
-                <div class='ladi-paragraph'>LỄ THÀNH HÔN ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ TRAI<br></div>
+                <div class='ladi-paragraph'>LỄ THÀNH HÔN ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ GÁI<br></div>
             </div>
             <div id="PARAGRAPH52" class='ladi-element'>
-                <div class='ladi-paragraph'>Việt Anh&nbsp; &nbsp; &nbsp; &nbsp;Khánh Linh&nbsp;</div>
+                <div class='ladi-paragraph'>Khánh Linh&nbsp; &nbsp; &nbsp; &nbsp;Việt Anh&nbsp;</div>
             </div>
             <div id="IMAGE36" class='ladi-element'>
                 <div class='ladi-image'>
@@ -3168,28 +3174,28 @@
                 </div>
             </div>
             <div id="PARAGRAPH53" class='ladi-element'>
-                <div class='ladi-paragraph'>VÀO LÚC 11 GIỜ, THỨ 7, NGÀY 02, THÁNG 11, NĂM 2024</div>
+                <div class='ladi-paragraph'>VÀO LÚC 17 GIỜ, THỨ 6, NGÀY 01, THÁNG 11, NĂM 2024</div>
             </div>
             <div id="PARAGRAPH54" class='ladi-element'>
-                <div class='ladi-paragraph'><span style="font-weight: normal;">( TẠI: Tầng 3 Khách sạn Sơn Nam, số 26 Lê Hồng Phong, TP Nam Định)</span></div>
+                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Xóm 7, Thôn thanh chiểu, Xã Phú Cường, Huyện Ba Vì, TP Hà Nội)</span></div>
             </div>
             <div id="GROUP18" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH38" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ TRAI</span><br></div>
+                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ GÁI</span><br></div>
                     </div>
                     <div id="PARAGRAPH39" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Nguyễn Duy Phấn<br>Bà: Trần Thị Hương</div>
+                        <div class='ladi-paragraph'>Ông: Nguyễn Quốc Khánh<br>Bà: Nguyễn Thị Thanh Vinh</div>
                     </div>
                 </div>
             </div>
             <div id="GROUP21" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH55" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ GÁI</span><br></div>
+                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ TRAI</span><br></div>
                     </div>
                     <div id="PARAGRAPH56" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Nguyễn Quốc Khánh<br>Bà: Nguyễn Thị Thanh Vinh</div>
+                        <div class='ladi-paragraph'>Ông: Nguyễn Duy Phấn<br>Bà: Trần Thị Hương</div>
                     </div>
                 </div>
             </div>
@@ -3438,8 +3444,9 @@
                     </div>
                     <div id="PARAGRAPH33" class='ladi-element'>
                         <div class='ladi-paragraph'><span style="color: rgb(255, 22, 22); font-weight: 700;">17h00
-                                    phút ngày 01/11/2024: Lễ Thành Hôn</span><br><span style="font-weight: bold;">Tổ chức tại tư gia nhà
-                                    gái</span><br>Thôn Thanh Chiểu, Phú Cường, Ba Vì, Hà Nội
+                                    phút ngày 01/11/2024: Lễ Thành Hôn</span><br>
+                            <span style="font-weight: bold;">Tổ chức tại tư gia nhà gái</span>
+                            <br>Xóm 7, Thanh Chiểu, Phú Cường, Ba Vì, Hà Nội
                         </div>
                     </div>
                     <div id="IMAGE28" class='ladi-element'>
@@ -3516,27 +3523,11 @@
                         <div class='ladi-paragraph'><span style="font-weight: 700;">CÔ DÂU</span><br></div>
                     </div>
                     <div data-action="true" id="PARAGRAPH30" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: bold;">– Tên tài khoản:</span>&nbsp;Vũ
-                            Phương T<br><span style="font-weight: bold;">– STK:</span> 123456<br><span
-                                style="font-weight: bold;">– Techcombank</span><br></div>
+                        <div class='ladi-paragraph'><span style="font-weight: bold;">Tên tài khoản:</span>&nbsp;Nguyen Khanh Linh
+                            <br>
+                            <span style="font-weight: bold;">STK:</span> 0398905595<br><span
+                                style="font-weight: bold;">MB Bank</span><br></div>
                     </div>
-                </div>
-            </div>
-            <div id="GROUP12" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="PARAGRAPH31" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">CHÚ RỂ</span><br></div>
-                    </div>
-                    <div data-action="true" id="PARAGRAPH32" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: bold;">– Tên tài khoản: </span>Nguyễn
-                            Văn A<br><span style="font-weight: bold;">– STK:</span>&nbsp;123456<br><span
-                                style="font-weight: bold;">– SeABank</span><br></div>
-                    </div>
-                </div>
-            </div>
-            <div data-action="true" id="IMAGE23" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
                 </div>
             </div>
             <div id="IMAGE24" class='ladi-element'>
