@@ -1835,9 +1835,11 @@
                 height: 416px;
             }
 
-            #IMAGE9 > .ladi-image > .ladi-image-background,
-            #IMAGE16 > .ladi-image > .ladi-image-background {
+            #IMAGE9 > .ladi-image > .ladi-image-background{
                 background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
+            }
+            #IMAGE16 > .ladi-image > .ladi-image-background {
+                background-image: url("{{ asset('assests/img/ao_dai_9.jpg') }}");
             }
 
             #FRAME2 {
@@ -1846,7 +1848,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/ao_dai_6.jpg') }}");
             }
 
             #FRAME3 {
@@ -1873,7 +1875,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1393.JPG') }}");
+                background-image: url("{{ asset('assests/img/ao_dai_3.jpg') }}");
             }
 
             #FRAME6 {
@@ -2645,9 +2647,11 @@
                 height: 297.145px;
             }
 
-            #IMAGE9 > .ladi-image > .ladi-image-background,
-            #IMAGE16 > .ladi-image > .ladi-image-background {
+            #IMAGE9 > .ladi-image > .ladi-image-background{
                 background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
+            }
+            #IMAGE16 > .ladi-image > .ladi-image-background {
+                background-image: url("{{ asset('assests/img/ao_dai_9.jpg') }}");
             }
 
             #FRAME2 {
@@ -2656,7 +2660,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/ao_dai_6.jpg') }}");
             }
 
             #FRAME3 {
@@ -2683,7 +2687,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1393.JPG') }}");
+                background-image: url("{{ asset('assests/img/ao_dai_3.jpg') }}");
             }
 
             #FRAME6 {
