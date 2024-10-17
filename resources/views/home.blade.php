@@ -1105,11 +1105,11 @@
         }
 
         #IMAGE6 > .ladi-image > .ladi-image-background{
-            background-image: url("{{ asset('assests/img/linh_2.jpg') }}");
+            background-image: url("{{ asset('assests/img/min/linh_2.jpg') }}");
             border-radius: 50%;
         }
         #IMAGE7 > .ladi-image > .ladi-image-background {
-            background-image: url("{{ asset('assests/img/viet_anh_1.jpg') }}");
+            background-image: url("{{ asset('assests/img/min/viet_anh_1.jpg') }}");
             border-radius: 50%;
         }
 
@@ -1404,7 +1404,7 @@
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url({{ asset('assests/img/_S2H1373.jpg') }});
+                background-image: url({{ asset('assests/img/min/_S2H1373.jpg') }});
             }
 
             #PARAGRAPH1 {
@@ -1489,7 +1489,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                    background-image: url("{{ asset('assests/img/blue1.JPG') }}");
+                    background-image: url("{{ asset('assests/img/min/blue1.JPG') }}");
             }
 
             #GROUP19 {
@@ -1836,10 +1836,10 @@
             }
 
             #IMAGE9 > .ladi-image > .ladi-image-background{
-                background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/nam_tay_1.jpg') }}");
             }
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_9.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_9.jpg') }}");
             }
 
             #FRAME2 {
@@ -1848,7 +1848,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_6.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_6.jpg') }}");
             }
 
             #FRAME3 {
@@ -1857,7 +1857,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1182.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1182.JPG') }}");
             }
 
             #FRAME4 {
@@ -1866,7 +1866,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1312.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1312.JPG') }}");
             }
 
             #FRAME5 {
@@ -1875,7 +1875,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_3.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_3.jpg') }}");
             }
 
             #FRAME6 {
@@ -1884,7 +1884,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1470.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1470.JPG') }}");
             }
 
             #FRAME7 {
@@ -1893,7 +1893,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1114.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1114.JPG') }}");
             }
 
             #FRAME8 {
@@ -2137,7 +2137,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/bank_stk.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/bank_stk.jpg') }}");
             }
 
             #GROUP11 {
@@ -2188,7 +2188,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 344.754px;
                 height: 517.131px;
-                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1125.JPG') }}");
             }
 
             #IMAGE31,
@@ -2208,7 +2208,7 @@
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url("{{ asset('assests/img/_S2H1373.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1373.jpg') }}");
             }
 
             #PARAGRAPH1,
@@ -2308,7 +2308,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/blue1.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/blue1.JPG') }}");
             }
 
             #GROUP19 {
@@ -2648,10 +2648,10 @@
             }
 
             #IMAGE9 > .ladi-image > .ladi-image-background{
-                background-image: url("{{ asset('assests/img/nam_tay_1.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/nam_tay_1.jpg') }}");
             }
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_9.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_9.jpg') }}");
             }
 
             #FRAME2 {
@@ -2660,7 +2660,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_6.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_6.jpg') }}");
             }
 
             #FRAME3 {
@@ -2669,7 +2669,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1182.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1182.JPG') }}");
             }
 
             #FRAME4 {
@@ -2678,7 +2678,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1312.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1312.JPG') }}");
             }
 
             #FRAME5 {
@@ -2687,7 +2687,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/ao_dai_3.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/ao_dai_3.jpg') }}");
             }
 
             #FRAME6 {
@@ -2696,7 +2696,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1470.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1470.JPG') }}");
             }
 
             #FRAME7 {
@@ -2705,7 +2705,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/_S2H1114.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1114.JPG') }}");
             }
 
             #FRAME8 {
@@ -2928,7 +2928,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/bank_stk.jpg') }}");
+                background-image: url("{{ asset('assests/img/min/bank_stk.jpg') }}");
             }
 
             #GROUP11 {
@@ -2977,7 +2977,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 370.051px;
                 height: 555.076px;
-                background-image: url("{{ asset('assests/img/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1125.JPG') }}");
             }
 
             #IMAGE31,
@@ -3866,7 +3866,7 @@
 <script src="../w.ladicdn.com/v4/source/ladipagev3.min041e.js?v=1725620447318" type="text/javascript"></script>
 <script id="script_event_data"
         type="application/json">
-    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"{{ asset('assests/img/bank_stk.jpg') }}","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
+    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"{{ asset('assests/img/min/bank_stk.jpg') }}","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
 </script>
 <script id="script_ladipage_run"
         type="text/javascript">(function () {
