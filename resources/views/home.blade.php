@@ -1857,7 +1857,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1182.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1060a.jpg') }}");
             }
 
             #FRAME4 {
@@ -1866,7 +1866,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1312.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1312.jpg') }}");
             }
 
             #FRAME5 {
@@ -1884,7 +1884,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1470.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1554.jpg') }}");
             }
 
             #FRAME7 {
@@ -1893,7 +1893,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1114.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1560a.jpg') }}");
             }
 
             #FRAME8 {
@@ -2188,7 +2188,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 344.754px;
                 height: 517.131px;
-                background-image: url("{{ asset('assests/img/min/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1247a.jpg') }}");
             }
 
             #IMAGE31,
@@ -2669,7 +2669,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1182.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1060a.jpg') }}");
             }
 
             #FRAME4 {
@@ -2678,7 +2678,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1312.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1312.jpg') }}");
             }
 
             #FRAME5 {
@@ -2696,7 +2696,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1470.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1554.jpg') }}");
             }
 
             #FRAME7 {
@@ -2705,7 +2705,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1114.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1560a.jpg') }}");
             }
 
             #FRAME8 {
@@ -2977,7 +2977,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 370.051px;
                 height: 555.076px;
-                background-image: url("{{ asset('assests/img/min/_S2H1125.JPG') }}");
+                background-image: url("{{ asset('assests/img/min/_S2H1247a.jpg') }}");
             }
 
             #IMAGE31,
@@ -3037,11 +3037,11 @@
             <div id="PARAGRAPH8" class='ladi-element'>
                 <div class='ladi-paragraph'>&nbsp;Việt Anh</div>
             </div>
-            <div id="IMAGE3" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
-                </div>
-            </div>
+{{--            <div id="IMAGE3" class='ladi-element'>--}}
+{{--                <div class='ladi-image'>--}}
+{{--                    <div class="ladi-image-background"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
     </div>
     <div id="SECTION2" class='ladi-section'>
