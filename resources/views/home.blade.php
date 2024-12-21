@@ -1569,7 +1569,7 @@
 
             #IMAGE4 {
                 top: 277.199px;
-                left: 327.5px;
+                left: 283px;
             }
 
             #IMAGE4 > .ladi-image > .ladi-image-background,
@@ -1721,7 +1721,7 @@
 
             #IMAGE36 {
                 top: 264.199px;
-                left: 595px;
+                left: 545px;
             }
 
             #IMAGE37 {
@@ -3033,7 +3033,7 @@
         <div class='ladi-section-background'></div>
         <div class="ladi-container">
             <div id="PARAGRAPH1" class='ladi-element'>
-                <div class='ladi-paragraph'>Save The Date: 04.01.2025</div>
+                <div class='ladi-paragraph'>Save The Date: 05.01.2025</div>
             </div>
             <div id="PARAGRAPH7" class='ladi-element'>
                 <div class='ladi-paragraph'>Phương Thảo</div>
@@ -3082,11 +3082,11 @@
                     </div>
                     <div id="PARAGRAPH5" class='ladi-element'>
                         <div class='ladi-paragraph'>HÔN LỄ ĐƯỢC CỬ HÀNH TẠI TƯ GIA
-                            <br>VÀO LÚC 15 GIỜ, THỨ 7, NGÀY 04, THÁNG 1, NĂM 2025<br>
+                            <br>VÀO LÚC 10 GIỜ, CHỦ NHẬT, NGÀY 05, THÁNG 1, NĂM 2025<br>
                         </div>
                     </div>
                     <div id="PARAGRAPH6" class='ladi-element'>
-                        <div class='ladi-paragraph'>Phương Thảo&nbsp; &nbsp; &nbsp; &nbsp;Triệu Tuấn</div>
+                        <div class='ladi-paragraph'>Triệu Tuấn&nbsp; &nbsp; &nbsp; &nbsp;Phương Thảo</div>
                     </div>
                     <div id="IMAGE4" class='ladi-element'>
                         <div class='ladi-image'>
@@ -3167,10 +3167,10 @@
                 <div class='ladi-paragraph'>TỚI THAM DỰ LỄ VU QUY CỦA CHÚNG MÌNH</div>
             </div>
             <div id="PARAGRAPH51" class='ladi-element'>
-                <div class='ladi-paragraph'>LỄ VU QUY ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ GÁI<br></div>
+                <div class='ladi-paragraph'>LỄ VU QUY ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ TRAI<br></div>
             </div>
             <div id="PARAGRAPH52" class='ladi-element'>
-                <div class='ladi-paragraph'>Phương Thảo&nbsp; &nbsp; &nbsp; &nbsp;Triệu Tuấn&nbsp;</div>
+                <div class='ladi-paragraph'>Triệu Tuấn&nbsp; &nbsp; &nbsp; &nbsp;Phương Thảo&nbsp;</div>
             </div>
             <div id="IMAGE36" class='ladi-element'>
                 <div class='ladi-image'>
@@ -3183,28 +3183,29 @@
                 </div>
             </div>
             <div id="PARAGRAPH53" class='ladi-element'>
-                <div class='ladi-paragraph'>VÀO LÚC 15 GIỜ, THỨ 7, NGÀY 04, THÁNG 1, NĂM 2025</div>
+                <div class='ladi-paragraph'>VÀO LÚC 10 GIỜ, CHỦ NHẬT, NGÀY 05, THÁNG 1, NĂM 2025</div>
             </div>
             <div id="PARAGRAPH54" class='ladi-element'>
-                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Đội 2, Thôn Viên Châu, Xã Cổ Đô, Huyện Ba Vì, TP Hà Nội)</span></div>
+                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Số 20, Ngõ 219, Nguyễn Ngọc Vũ, Cầu Giấy, Hà Nội )</span></div>
             </div>
             <div id="GROUP18" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH38" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ GÁI</span><br></div>
+                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ TRAI</span><br></div>
                     </div>
                     <div id="PARAGRAPH39" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Trần Văn Toán<br>Bà: Nguyễn Thị Hương</div>
+                        <div class='ladi-paragraph'>Ông: Ngạc Đình Thuận<br>Bà: Nguyễn Thị Lan</div>
                     </div>
                 </div>
             </div>
             <div id="GROUP21" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH55" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ TRAI</span><br></div>
+                        <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ GÁI</span><br></div>
                     </div>
                     <div id="PARAGRAPH56" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Ngạc Đình Thuận<br>Bà: Nguyễn Thị Lan</div>
+                        <div class='ladi-paragraph'>Ông: Trần Văn Toán<br>Bà: Nguyễn Thị Hương
+                        </div>
                     </div>
                 </div>
             </div>
