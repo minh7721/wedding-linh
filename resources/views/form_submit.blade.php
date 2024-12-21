@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 d-flex align-items-stretch">
-                            <div class="info-wrap w-100 p-5 img" style="background-image: url({{ asset('assests/img/min/_S2H1470.JPG') }});">
+                            <div class="info-wrap w-100 p-5 img" style="background-image: url({{ asset('assests/img/anh_cuoi_thao/PL_07203.JPG') }});">
                             </div>
                         </div>
                     </div>

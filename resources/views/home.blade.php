@@ -6,12 +6,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Việt Anh &#38; Khánh Linh</title>
+    <title>Triệu Tuấn &#38; Phương Thảo</title>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Expires" content="-1">
     <meta name="keywords" content="wedding">
-    <meta name="description" content="Thiệp mời đám cưới Việt Anh &#38; Khánh Linh">
+    <meta name="description" content="Thiệp mời đám cưới Triệu Tuấn &#38; Phương Thảo">
     <meta name='viewport' content='width=device-width, initial-scale=1'/>
     <script
         type='text/javascript'>window.ladi_viewport = function (b) {
@@ -56,9 +56,9 @@
     <link rel="canonical" href=""/>
     <meta name="robots" content="none">
     <meta property="og:url" content=""/>
-    <meta property="og:title" content="Việt Anh &#38; Khánh Linh"/>
+    <meta property="og:title" content="Triệu Tuấn &#38; Phương Thảo"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:description" content="Việt Anh &#38; Khánh Linh"/>
+    <meta property="og:description" content="Triệu Tuấn &#38; Phương Thảo"/>
     <meta name="format-detection" content="telephone=no"/>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
 
@@ -861,20 +861,24 @@
         #PARAGRAPH1 > .ladi-paragraph {
             font-weight: bold;
             line-height: 1.6;
-            color: rgb(255, 255, 255);
+            color: rgb(219, 161, 145);
         }
 
-        #PARAGRAPH1 > .ladi-paragraph,
+        #PARAGRAPH1 > .ladi-paragraph {
+            text-shadow: rgb(112, 89, 83) 1px 1px 1px;
+        }
+
         #PARAGRAPH7 > .ladi-paragraph,
         #PARAGRAPH8 > .ladi-paragraph {
-            text-shadow: rgb(0, 0, 0) 1px 2px 3px;
+            text-shadow: rgb(112, 89, 83) 1px 1px 2px;
         }
 
         #PARAGRAPH7 > .ladi-paragraph,
         #PARAGRAPH8 > .ladi-paragraph {
             font-family: RJlYXRWaWJlcySZWdbGFyLnRZg;
             line-height: 1.6;
-            color: rgb(255, 255, 255);
+            color: rgb(219, 161, 145);
+
         }
 
         #IMAGE3 > .ladi-image > .ladi-image-background,
@@ -1105,11 +1109,11 @@
         }
 
         #IMAGE6 > .ladi-image > .ladi-image-background{
-            background-image: url("{{ asset('assests/img/min/linh_2.jpg') }}");
+            background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07386.JPG') }}");
             border-radius: 50%;
         }
         #IMAGE7 > .ladi-image > .ladi-image-background {
-            background-image: url("{{ asset('assests/img/min/viet_anh_1.jpg') }}");
+            background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07400.JPG') }}");
             border-radius: 50%;
         }
 
@@ -1400,11 +1404,11 @@
 
         @media (min-width: 768px) {
             #SECTION1 {
-                height: 1000px;
+                height: 800px;
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url({{ asset('assests/img/min/_S2H1373.jpg') }});
+                background-image: url({{ asset('assests/img/anh_cuoi_thao/bg.jpg') }});
             }
 
             #PARAGRAPH1 {
@@ -1489,7 +1493,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                    background-image: url("{{ asset('assests/img/min/blue1.JPG') }}");
+                    background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_06955.JPG') }}");
             }
 
             #GROUP19 {
@@ -1836,10 +1840,10 @@
             }
 
             #IMAGE9 > .ladi-image > .ladi-image-background{
-                background-image: url("{{ asset('assests/img/min/nam_tay_1.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07047.JPG') }}");
             }
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_9.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_06859.JPG') }}");
             }
 
             #FRAME2 {
@@ -1848,7 +1852,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_6.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07294.JPG') }}");
             }
 
             #FRAME3 {
@@ -1857,7 +1861,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1060a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07108.JPG') }}");
             }
 
             #FRAME4 {
@@ -1866,7 +1870,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1312.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07131.JPG') }}");
             }
 
             #FRAME5 {
@@ -1875,7 +1879,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_3.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07250.JPG') }}");
             }
 
             #FRAME6 {
@@ -1884,7 +1888,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1554.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07359.JPG') }}");
             }
 
             #FRAME7 {
@@ -1893,7 +1897,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1560a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07217.JPG') }}");
             }
 
             #FRAME8 {
@@ -2137,7 +2141,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/bank_stk.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/stk_thao.jpeg') }}");
             }
 
             #GROUP11 {
@@ -2188,7 +2192,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 344.754px;
                 height: 517.131px;
-                background-image: url("{{ asset('assests/img/min/_S2H1247a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07084.JPG') }}");
             }
 
             #IMAGE31,
@@ -2208,7 +2212,7 @@
             }
 
             #SECTION1 > .ladi-section-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1373.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/bg.jpg') }}");
             }
 
             #PARAGRAPH1,
@@ -2308,7 +2312,7 @@
             }
 
             #IMAGE1 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/blue1.JPG') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_06955.JPG') }}");
             }
 
             #GROUP19 {
@@ -2648,10 +2652,10 @@
             }
 
             #IMAGE9 > .ladi-image > .ladi-image-background{
-                background-image: url("{{ asset('assests/img/min/nam_tay_1.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07047.JPG') }}");
             }
             #IMAGE16 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_9.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_06859.JPG') }}");
             }
 
             #FRAME2 {
@@ -2660,7 +2664,7 @@
             }
 
             #IMAGE10 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_6.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07294.JPG') }}");
             }
 
             #FRAME3 {
@@ -2669,7 +2673,7 @@
             }
 
             #IMAGE11 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1060a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07108.JPG') }}");
             }
 
             #FRAME4 {
@@ -2678,7 +2682,7 @@
             }
 
             #IMAGE12 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1312.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07131.JPG') }}");
             }
 
             #FRAME5 {
@@ -2687,7 +2691,7 @@
             }
 
             #IMAGE13 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/ao_dai_3.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07250.JPG') }}");
             }
 
             #FRAME6 {
@@ -2696,7 +2700,7 @@
             }
 
             #IMAGE14 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1554.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07359.JPG') }}");
             }
 
             #FRAME7 {
@@ -2705,7 +2709,7 @@
             }
 
             #IMAGE15 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/_S2H1560a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07217.JPG') }}");
             }
 
             #FRAME8 {
@@ -2889,7 +2893,7 @@
             }
 
             #SECTION8 {
-                height: 1271.99px;
+                height: 852px;
             }
 
             #GROUP10 {
@@ -2928,7 +2932,7 @@
 
             #IMAGE22 > .ladi-image > .ladi-image-background,
             #IMAGE23 > .ladi-image > .ladi-image-background {
-                background-image: url("{{ asset('assests/img/min/bank_stk.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/stk_thao.jpeg') }}");
             }
 
             #GROUP11 {
@@ -2953,7 +2957,7 @@
             }
 
             #IMAGE24 {
-                top: 1132.53px;
+                top: 773px;
                 left: 10px;
             }
 
@@ -2964,7 +2968,7 @@
             #GROUP16 {
                 width: 405.025px;
                 height: 524.199px;
-                top: 572.113px;
+                top: 220px;
                 left: 24.9745px;
             }
 
@@ -2977,7 +2981,7 @@
             #IMAGE30 > .ladi-image > .ladi-image-background {
                 width: 370.051px;
                 height: 555.076px;
-                background-image: url("{{ asset('assests/img/min/_S2H1247a.jpg') }}");
+                background-image: url("{{ asset('assests/img/anh_cuoi_thao/PL_07084.JPG') }}");
             }
 
             #IMAGE31,
@@ -3029,13 +3033,13 @@
         <div class='ladi-section-background'></div>
         <div class="ladi-container">
             <div id="PARAGRAPH1" class='ladi-element'>
-                <div class='ladi-paragraph'>Save The Date: 01.11.2024</div>
+                <div class='ladi-paragraph'>Save The Date: 04.01.2025</div>
             </div>
             <div id="PARAGRAPH7" class='ladi-element'>
-                <div class='ladi-paragraph'>Khánh Linh</div>
+                <div class='ladi-paragraph'>Phương Thảo</div>
             </div>
             <div id="PARAGRAPH8" class='ladi-element'>
-                <div class='ladi-paragraph'>&nbsp;Việt Anh</div>
+                <div class='ladi-paragraph'>&nbsp;Triệu Tuấn</div>
             </div>
 {{--            <div id="IMAGE3" class='ladi-element'>--}}
 {{--                <div class='ladi-image'>--}}
@@ -3074,15 +3078,15 @@
                         </div>
                     </div>
                     <div id="PARAGRAPH4" class='ladi-element'>
-                        <div class='ladi-paragraph'>TỚI THAM DỰ LỄ THÀNH HÔN CỦA CHÚNG MÌNH</div>
+                        <div class='ladi-paragraph'>TỚI THAM DỰ LỄ VU QUY CỦA CHÚNG MÌNH</div>
                     </div>
                     <div id="PARAGRAPH5" class='ladi-element'>
                         <div class='ladi-paragraph'>HÔN LỄ ĐƯỢC CỬ HÀNH TẠI TƯ GIA
-                            <br>VÀO LÚC 17 GIỜ, THỨ 6, NGÀY 01, THÁNG 11, NĂM 2024<br>
+                            <br>VÀO LÚC 15 GIỜ, THỨ 7, NGÀY 04, THÁNG 1, NĂM 2025<br>
                         </div>
                     </div>
                     <div id="PARAGRAPH6" class='ladi-element'>
-                        <div class='ladi-paragraph'>Khánh Linh&nbsp; &nbsp; &nbsp; &nbsp;Việt Anh</div>
+                        <div class='ladi-paragraph'>Phương Thảo&nbsp; &nbsp; &nbsp; &nbsp;Triệu Tuấn</div>
                     </div>
                     <div id="IMAGE4" class='ladi-element'>
                         <div class='ladi-image'>
@@ -3109,7 +3113,7 @@
             <div id="GROUP3" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH9" class='ladi-element'>
-                        <div class='ladi-paragraph'>Khánh Linh</div>
+                        <div class='ladi-paragraph'>Phương Thảo</div>
                     </div>
                     <div id="PARAGRAPH10" class='ladi-element'>
                         <div class='ladi-paragraph'>“Không ngờ được ” đó là câu nói tôi hay nói từ khi chúng tôi bắt
@@ -3132,7 +3136,7 @@
             <div id="GROUP4" class='ladi-element'>
                 <div class='ladi-group'>
                     <div id="PARAGRAPH11" class='ladi-element'>
-                        <div class='ladi-paragraph'>Việt Anh</div>
+                        <div class='ladi-paragraph'>Triệu Tuấn</div>
                     </div>
                     <div id="PARAGRAPH12" class='ladi-element'>
                         <div class='ladi-paragraph'>” Tôi hạnh phúc khi ở bên cô ấy.” Thật sự mà nói chúng tôi đã
@@ -3160,13 +3164,13 @@
                 </div>
             </div>
             <div id="PARAGRAPH50" class='ladi-element'>
-                <div class='ladi-paragraph'>TỚI THAM DỰ LỄ THÀNH HÔN CỦA CHÚNG MÌNH</div>
+                <div class='ladi-paragraph'>TỚI THAM DỰ LỄ VU QUY CỦA CHÚNG MÌNH</div>
             </div>
             <div id="PARAGRAPH51" class='ladi-element'>
-                <div class='ladi-paragraph'>LỄ THÀNH HÔN ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ GÁI<br></div>
+                <div class='ladi-paragraph'>LỄ VU QUY ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ GÁI<br></div>
             </div>
             <div id="PARAGRAPH52" class='ladi-element'>
-                <div class='ladi-paragraph'>Khánh Linh&nbsp; &nbsp; &nbsp; &nbsp;Việt Anh&nbsp;</div>
+                <div class='ladi-paragraph'>Phương Thảo&nbsp; &nbsp; &nbsp; &nbsp;Triệu Tuấn&nbsp;</div>
             </div>
             <div id="IMAGE36" class='ladi-element'>
                 <div class='ladi-image'>
@@ -3179,10 +3183,10 @@
                 </div>
             </div>
             <div id="PARAGRAPH53" class='ladi-element'>
-                <div class='ladi-paragraph'>VÀO LÚC 17 GIỜ, THỨ 6, NGÀY 01, THÁNG 11, NĂM 2024</div>
+                <div class='ladi-paragraph'>VÀO LÚC 15 GIỜ, THỨ 7, NGÀY 04, THÁNG 1, NĂM 2025</div>
             </div>
             <div id="PARAGRAPH54" class='ladi-element'>
-                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Xóm 7, Thôn thanh chiểu, Xã Phú Cường, Huyện Ba Vì, TP Hà Nội)</span></div>
+                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Đội 2, Thôn Viên Châu, Xã Cổ Đô, Huyện Ba Vì, TP Hà Nội)</span></div>
             </div>
             <div id="GROUP18" class='ladi-element'>
                 <div class='ladi-group'>
@@ -3190,7 +3194,7 @@
                         <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ GÁI</span><br></div>
                     </div>
                     <div id="PARAGRAPH39" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Nguyễn Quốc Khánh<br>Bà: Nguyễn Thị Thanh Vinh</div>
+                        <div class='ladi-paragraph'>Ông: Trần Văn Toán<br>Bà: Nguyễn Thị Hương</div>
                     </div>
                 </div>
             </div>
@@ -3200,7 +3204,7 @@
                         <div class='ladi-paragraph'><span style="font-weight: 700;">NHÀ TRAI</span><br></div>
                     </div>
                     <div id="PARAGRAPH56" class='ladi-element'>
-                        <div class='ladi-paragraph'>Ông: Nguyễn Duy Phấn<br>Bà: Trần Thị Hương</div>
+                        <div class='ladi-paragraph'>Ông: Ngạc Đình Thuận<br>Bà: Nguyễn Thị Lan</div>
                     </div>
                 </div>
             </div>
@@ -3448,10 +3452,10 @@
                         <div class='ladi-box ladi-transition'></div>
                     </div>
                     <div id="PARAGRAPH33" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="color: rgb(255, 22, 22); font-weight: 700;">17h00
-                                    phút ngày 01/11/2024: Lễ Thành Hôn</span><br>
+                        <div class='ladi-paragraph'><span style="color: rgb(255, 22, 22); font-weight: 700;">15h00
+                                    phút ngày 04/01/2024: LỄ VU QUY</span><br>
                             <span style="font-weight: bold;">Tổ chức tại tư gia nhà gái</span>
-                            <br>Xóm 7, Thanh Chiểu, Phú Cường, Ba Vì, Hà Nội
+                            <br>Đội 2, Thôn Viên Châu, Cổ Đô, Ba Vì, Hà Nội
                         </div>
                     </div>
                     <div id="IMAGE28" class='ladi-element'>
@@ -3467,10 +3471,10 @@
                         <div class='ladi-box ladi-transition'></div>
                     </div>
                     <div id="PARAGRAPH34" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: bold; color: rgb(255, 22, 22);">11h00
-                                    phút ngày 02/11/2024: Rước Dâu</span><br><span style="font-weight: bold;">Tổ chức tại tư gia nhà
+                        <div class='ladi-paragraph'><span style="font-weight: bold; color: rgb(255, 22, 22);">10h00
+                                    phút ngày 05/01/2025: Rước Dâu</span><br><span style="font-weight: bold;">Tổ chức tại tư gia nhà
                                     trai
-                                </span><br>Số 26 Lê Hồng Phong, TP Nam Định<br></div>
+                                </span><br>20/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy<br></div>
                     </div>
                     <div id="IMAGE29" class='ladi-element'>
                         <div class='ladi-image'>
@@ -3481,8 +3485,9 @@
             </div>
             <div id="HTML_CODE1" class='ladi-element'>
                 <div class='ladi-html-code'>
+
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3717.6064721482103!2d105.40652407635591!3d21.287039480427755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzEzLjMiTiAxMDXCsDI0JzMyLjgiRQ!5e0!3m2!1svi!2sus!4v1727711524772!5m2!1svi!2sus"
+                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1251.279583394994!2d105.38747126964957!3d21.289873998776592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE3JzIzLjYiTiAxMDXCsDIzJzE3LjIiRQ!5e1!3m2!1svi!2sus!4v1734804479550!5m2!1svi!2sus"
                         width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
@@ -3490,7 +3495,7 @@
             <div id="HTML_CODE2" class='ladi-element'>
                 <div class='ladi-html-code'>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3738.8738979156396!2d106.17908987633881!3d20.429269881074216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e748325fd335%3A0x79de8d6a5d010888!2zS2jDoWNoIHPhuqFuIFPGoW4gTmFt!5e0!3m2!1svi!2s!4v1727711810700!5m2!1svi!2s"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5014.490271378035!2d105.80227277635042!3d21.012839480632532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab5fe5fbcfc3%3A0x530cf4d9d8c3c911!2zMjAgTmcuIDIxOSDEkC4gTmd1eeG7hW4gTmfhu41jIFbFqSwgVHJ1bmcgSG_DoCwgQ-G6p3UgR2nhuqV5LCBIw6AgTuG7mWkgMTAwMDAsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1734804324178!5m2!1svi!2s"
                         width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
@@ -3517,24 +3522,24 @@
                     phúc và sự hiện diện của các bạn.
                 </div>
             </div>
-            <div data-action="true" id="IMAGE22" class='ladi-element'>
-                <div class='ladi-image'>
-                    <div class="ladi-image-background"></div>
-                </div>
-            </div>
-            <div id="GROUP11" class='ladi-element'>
-                <div class='ladi-group'>
-                    <div id="PARAGRAPH29" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: 700;">CÔ DÂU</span><br></div>
-                    </div>
-                    <div data-action="true" id="PARAGRAPH30" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="font-weight: bold;">Tên tài khoản:</span>&nbsp;Nguyen Khanh Linh
-                            <br>
-                            <span style="font-weight: bold;">STK:</span> 0398905595<br><span
-                                style="font-weight: bold;">MB Bank</span><br></div>
-                    </div>
-                </div>
-            </div>
+{{--            <div data-action="true" id="IMAGE22" class='ladi-element'>--}}
+{{--                <div class='ladi-image'>--}}
+{{--                    <div class="ladi-image-background"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div id="GROUP11" class='ladi-element'>--}}
+{{--                <div class='ladi-group'>--}}
+{{--                    <div id="PARAGRAPH29" class='ladi-element'>--}}
+{{--                        <div class='ladi-paragraph'><span style="font-weight: 700;">CÔ DÂU</span><br></div>--}}
+{{--                    </div>--}}
+{{--                    <div data-action="true" id="PARAGRAPH30" class='ladi-element'>--}}
+{{--                        <div class='ladi-paragraph'><span style="font-weight: bold;">Tên tài khoản:</span>&nbsp;Tran Thi Phuong Thao--}}
+{{--                            <br>--}}
+{{--                            <span style="font-weight: bold;">STK:</span> 2206236514<br><span--}}
+{{--                                style="font-weight: bold;">BIDV</span><br></div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div id="IMAGE24" class='ladi-element'>
                 <div class='ladi-image'>
                     <div class="ladi-image-background"></div>
@@ -3866,7 +3871,7 @@
 <script src="../w.ladicdn.com/v4/source/ladipagev3.min041e.js?v=1725620447318" type="text/javascript"></script>
 <script id="script_event_data"
         type="application/json">
-    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"{{ asset('assests/img/min/bank_stk.jpg') }}","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
+    {"IMAGE5":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE6":{"a":"image","F":"fadeInLeft","C":"0s"},"IMAGE7":{"a":"image","F":"fadeInRight","C":"0s"},"IMAGE8":{"a":"image","F":"fadeInRight","C":"1s"},"FRAME1":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME2":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME3":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME4":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME5":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME6":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME7":{"a":"frame","F":"fadeInUp","C":"0s"},"FRAME8":{"a":"frame","F":"fadeInUp","C":"0s"},"IMAGE17":{"a":"image","F":"fadeInRight","C":"1s"},"IMAGE22":{"a":"image","cs":[{"dr":"action","dC":"{{ asset('assests/img/anh_cuoi_thao/stk_thao.jpeg') }}","dF":"image","a":"lightbox"}]},"PARAGRAPH30":{"a":"paragraph","cs":[{"dr":"action","dL":"10935086188014","dw":"","a":"copy_clipboard"}]},"PARAGRAPH32":{"a":"paragraph","cs":[{"dr":"action","dL":"0833333396","a":"copy_clipboard"}]},"IMAGE23":{"a":"image","cs":[{"dr":"action","dC":"https://w.ladicdn.com/5e51ff6161a254079fc6d2ed/1696068966302-20230930101650-lt7vl.png","dF":"image","a":"lightbox"}]}}
 </script>
 <script id="script_ladipage_run"
         type="text/javascript">(function () {
