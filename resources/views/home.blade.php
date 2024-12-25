@@ -3492,7 +3492,10 @@
             </div>
             <div id="HTML_CODE2" class='ladi-element'>
                 <div class='ladi-html-code'>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2218.4647127615826!2d105.80187314594016!3d21.010606483664017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac9fea7407e3%3A0xac5cb62e7f813c3b!2zMTEzIE5nLiAxODkgxJAuIE5ndXnhu4VuIE5n4buNYyBWxaksIFRydW5nIEhvw6AsIEPhuqd1IEdp4bqleSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e1!3m2!1svi!2sus!4v1735140824196!5m2!1svi!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2218.4647127615826!2d105.80187314594016!3d21.010606483664017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac9fea7407e3%3A0xac5cb62e7f813c3b!2zMTEzIE5nLiAxODkgxJAuIE5ndXnhu4VuIE5n4buNYyBWxaksIFRydW5nIEhvw6AsIEPhuqd1IEdp4bqleSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e1!3m2!1svi!2sus!4v1735140824196!5m2!1svi!2sus"
+                        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
