@@ -3074,7 +3074,7 @@
                     </div>
                     <div id="PARAGRAPH3" class='ladi-element'>
                         <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::! </span>cùng
-                            người thân thương
+                            người thương
                         </div>
                     </div>
                     <div id="PARAGRAPH4" class='ladi-element'>
@@ -3117,8 +3117,7 @@
                     </div>
                     <div id="PARAGRAPH10" class='ladi-element'>
                         <div class='ladi-paragraph'>“Không ngờ được ” đó là câu nói tôi hay nói từ khi chúng tôi bắt
-                            đầu yêu và giờ thì… chúng tôi kết hôn rồi. Trải qua nhiều biến cố trong chuyện tình cảm
-                            chúng tôi khá dè dặt khi lại 1 lần nữa bước chân vào hôn nhân. Và rồi… “Chốt thôi”♥ ♥
+                            đầu yêu và giờ thì… “Chốt thôi”♥ ♥
                         </div>
                     </div>
                 </div>
@@ -3139,8 +3138,7 @@
                         <div class='ladi-paragraph'>Triệu Tuấn</div>
                     </div>
                     <div id="PARAGRAPH12" class='ladi-element'>
-                        <div class='ladi-paragraph'>” Tôi hạnh phúc khi ở bên cô ấy.” Thật sự mà nói chúng tôi đã
-                            trải qua nhiều biến cố trong chuyện tình cảm. Quyết định đến với nhau là kết quả cả cả
+                        <div class='ladi-paragraph'>” Tôi hạnh phúc khi ở bên cô ấy.”. Quyết định đến với nhau là kết quả cả cả
                             hai chúng tôi đã phấn đấu vì nhau , thay đổi và bổ trợ cho nhau. Và … Chúng tôi đã về
                             chung 1 nhà. ♥ ♥
                         </div>
@@ -3160,7 +3158,7 @@
             </div>
             <div id="PARAGRAPH49" class='ladi-element'>
                 <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::!</span> cùng người
-                    thân thương
+                    thương
                 </div>
             </div>
             <div id="PARAGRAPH50" class='ladi-element'>
