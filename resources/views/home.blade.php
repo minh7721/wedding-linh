@@ -3036,10 +3036,10 @@
                 <div class='ladi-paragraph'>Save The Date: 05.01.2025</div>
             </div>
             <div id="PARAGRAPH7" class='ladi-element'>
-                <div class='ladi-paragraph'>Phương Thảo</div>
+                <div class='ladi-paragraph'>Triệu Tuấn</div>
             </div>
             <div id="PARAGRAPH8" class='ladi-element'>
-                <div class='ladi-paragraph'>&nbsp;Triệu Tuấn</div>
+                <div class='ladi-paragraph'>&nbsp;Phương Thảo</div>
             </div>
 {{--            <div id="IMAGE3" class='ladi-element'>--}}
 {{--                <div class='ladi-image'>--}}
@@ -3073,12 +3073,11 @@
                         <div class='ladi-paragraph'>TRÂN TRỌNG KÍNH MỜI</div>
                     </div>
                     <div id="PARAGRAPH3" class='ladi-element'>
-                        <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::! </span>cùng
-                            người thân thương
+                        <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::! </span>cùng người thương
                         </div>
                     </div>
                     <div id="PARAGRAPH4" class='ladi-element'>
-                        <div class='ladi-paragraph'>TỚI THAM DỰ LỄ VU QUY CỦA CHÚNG MÌNH</div>
+                        <div class='ladi-paragraph'>TỚI THAM DỰ LỄ THÀNH HÔN CỦA CHÚNG MÌNH</div>
                     </div>
                     <div id="PARAGRAPH5" class='ladi-element'>
                         <div class='ladi-paragraph'>HÔN LỄ ĐƯỢC CỬ HÀNH TẠI TƯ GIA
@@ -3117,8 +3116,7 @@
                     </div>
                     <div id="PARAGRAPH10" class='ladi-element'>
                         <div class='ladi-paragraph'>“Không ngờ được ” đó là câu nói tôi hay nói từ khi chúng tôi bắt
-                            đầu yêu và giờ thì… chúng tôi kết hôn rồi. Trải qua nhiều biến cố trong chuyện tình cảm
-                            chúng tôi khá dè dặt khi lại 1 lần nữa bước chân vào hôn nhân. Và rồi… “Chốt thôi”♥ ♥
+                            đầu yêu và giờ thì… “Chốt thôi”♥ ♥
                         </div>
                     </div>
                 </div>
@@ -3139,8 +3137,7 @@
                         <div class='ladi-paragraph'>Triệu Tuấn</div>
                     </div>
                     <div id="PARAGRAPH12" class='ladi-element'>
-                        <div class='ladi-paragraph'>” Tôi hạnh phúc khi ở bên cô ấy.” Thật sự mà nói chúng tôi đã
-                            trải qua nhiều biến cố trong chuyện tình cảm. Quyết định đến với nhau là kết quả cả cả
+                        <div class='ladi-paragraph'>” Tôi hạnh phúc khi ở bên cô ấy.”. Quyết định đến với nhau là kết quả cả cả
                             hai chúng tôi đã phấn đấu vì nhau , thay đổi và bổ trợ cho nhau. Và … Chúng tôi đã về
                             chung 1 nhà. ♥ ♥
                         </div>
@@ -3159,15 +3156,14 @@
                 <div class='ladi-paragraph'>TRÂN TRỌNG KÍNH MỜI</div>
             </div>
             <div id="PARAGRAPH49" class='ladi-element'>
-                <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::!</span> cùng người
-                    thân thương
+                <div class='ladi-paragraph'><span style="color: rgb(243, 0, 0);">!::name|Bạn::!</span> cùng người thương
                 </div>
             </div>
             <div id="PARAGRAPH50" class='ladi-element'>
-                <div class='ladi-paragraph'>TỚI THAM DỰ LỄ VU QUY CỦA CHÚNG MÌNH</div>
+                <div class='ladi-paragraph'>TỚI THAM DỰ LỄ THÀNH HÔN CỦA CHÚNG MÌNH</div>
             </div>
             <div id="PARAGRAPH51" class='ladi-element'>
-                <div class='ladi-paragraph'>LỄ VU QUY ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ TRAI<br></div>
+                <div class='ladi-paragraph'>LỄ THÀNH HÔN ĐƯỢC CỬ HÀNH TẠI TƯ GIA NHÀ TRAI<br></div>
             </div>
             <div id="PARAGRAPH52" class='ladi-element'>
                 <div class='ladi-paragraph'>Triệu Tuấn&nbsp; &nbsp; &nbsp; &nbsp;Phương Thảo&nbsp;</div>
@@ -3186,7 +3182,7 @@
                 <div class='ladi-paragraph'>VÀO LÚC 10 GIỜ, CHỦ NHẬT, NGÀY 05, THÁNG 1, NĂM 2025</div>
             </div>
             <div id="PARAGRAPH54" class='ladi-element'>
-                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Số 20, Ngõ 219, Nguyễn Ngọc Vũ, Cầu Giấy, Hà Nội )</span></div>
+                <div class='ladi-paragraph'><span style="font-weight: normal;">( Tại: Số 113, Ngõ 189, Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội )</span></div>
             </div>
             <div id="GROUP18" class='ladi-element'>
                 <div class='ladi-group'>
@@ -3475,7 +3471,7 @@
                         <div class='ladi-paragraph'><span style="font-weight: bold; color: rgb(255, 22, 22);">10h00
                                     phút ngày 05/01/2025: Rước Dâu</span><br><span style="font-weight: bold;">Tổ chức tại tư gia nhà
                                     trai
-                                </span><br>20/219 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy<br></div>
+                                </span><br>113/189 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy<br></div>
                     </div>
                     <div id="IMAGE29" class='ladi-element'>
                         <div class='ladi-image'>
@@ -3496,7 +3492,7 @@
             <div id="HTML_CODE2" class='ladi-element'>
                 <div class='ladi-html-code'>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5014.490271378035!2d105.80227277635042!3d21.012839480632532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab5fe5fbcfc3%3A0x530cf4d9d8c3c911!2zMjAgTmcuIDIxOSDEkC4gTmd1eeG7hW4gTmfhu41jIFbFqSwgVHJ1bmcgSG_DoCwgQ-G6p3UgR2nhuqV5LCBIw6AgTuG7mWkgMTAwMDAsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1734804324178!5m2!1svi!2s"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2218.4647127615826!2d105.80187314594016!3d21.010606483664017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac9fea7407e3%3A0xac5cb62e7f813c3b!2zMTEzIE5nLiAxODkgxJAuIE5ndXnhu4VuIE5n4buNYyBWxaksIFRydW5nIEhvw6AsIEPhuqd1IEdp4bqleSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e1!3m2!1svi!2sus!4v1735140824196!5m2!1svi!2sus"
                         width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
