@@ -2385,7 +2385,7 @@
 
             #IMAGE4 {
                 top: 231.129px;
-                left: 209px;
+                left: 181px;
             }
 
             #IMAGE4 > .ladi-image > .ladi-image-background,
@@ -2518,7 +2518,7 @@
 
             #IMAGE36 {
                 top: 239.579px;
-                left: 205px;
+                left: 178px;
             }
 
             #IMAGE37,
