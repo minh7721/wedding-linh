@@ -2249,22 +2249,22 @@
                 width: 400px;
             }
 
-            #PARAGRAPH7 {
+            #PARAGRAPH8 {
                 top: 132px;
                 left: 6.5px;
             }
 
-            #PARAGRAPH7 > .ladi-paragraph {
+            #PARAGRAPH8 > .ladi-paragraph {
                 font-size: 50px;
                 text-align: right;
             }
 
-            #PARAGRAPH8 {
+            #PARAGRAPH7 {
                 top: 25px;
                 left: 6.5px;
             }
 
-            #PARAGRAPH8 > .ladi-paragraph,
+            #PARAGRAPH7 > .ladi-paragraph,
             #PARAGRAPH9 > .ladi-paragraph,
             #PARAGRAPH11 > .ladi-paragraph {
                 font-size: 50px;
