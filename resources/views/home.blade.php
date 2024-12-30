@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="vi">
-<!-- Mirrored from w.tuybutky.com/cuoi-thanh-tung---kim-trinh-3013 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Sep 2024 04:07:57 GMT -->
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8"/><!-- /Added by HTTrack -->
 
 <head>
@@ -3450,7 +3448,7 @@
                     </div>
                     <div id="PARAGRAPH33" class='ladi-element'>
                         <div class='ladi-paragraph'><span style="color: rgb(255, 22, 22); font-weight: 700;">15h00
-                                    phút ngày 04/01/2024: LỄ VU QUY</span><br>
+                                    phút ngày 04/01/2025: LỄ VU QUY</span><br>
                             <span style="font-weight: bold;">Tổ chức tại tư gia nhà gái</span>
                             <br>Đội 2, Thôn Viên Châu, Cổ Đô, Ba Vì, Hà Nội
                         </div>
@@ -3907,6 +3905,5 @@
 <script src="{{ asset('assests/js/jquery.validate.min.js') }}"></script>
 <script src="{{ asset('assests/js/main.js') }}"></script>
 </body>
-<!-- Mirrored from w.tuybutky.com/cuoi-thanh-tung---kim-trinh-3013 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Sep 2024 04:08:42 GMT -->
 
-</html><!--Publish time: Sat, 07 Sep 2024 04:30:32 GMT--><!--LadiPage build time: Fri, 06 Sep 2024 11:00:47 GMT-->
+</html>
